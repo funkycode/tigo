@@ -14,7 +14,7 @@ For example tigo 3 3 2 2 2 1 will place window liek that
 
 [ ][ ][ ]
 
-![Usage example](https://i.imgur.com/FjBnHUQ.gif)
+![Usage example](/images/usage.gif)
 
 ### TODO:
 1. Create a proper README
